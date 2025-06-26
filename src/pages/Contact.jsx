@@ -35,7 +35,7 @@ export default function Contact() {
             name='Name'
             required
             placeholder="Jane Doe"
-            className="mt-1 block w-full  text-gray-600 p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"
+            className="mt-1 block w-full  text-white-600 p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"
           />
         </div>
 
@@ -49,7 +49,7 @@ export default function Contact() {
             name='Email'
             required
             placeholder="JaneDoe@example.com"
-            className="mt-1 text-gray-600 block w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"
+            className="mt-1 text-white-600 block w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"
           />
         </div>
 
@@ -62,7 +62,7 @@ export default function Contact() {
             rows="5"
             name='Message'
             placeholder="Your Message here..."
-            className="mt-1 block text-gray-600 w-full h-[300px] p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"
+            className="mt-1 block text-white-600 w-full h-[300px] p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"
           ></textarea>
         </div>
 
