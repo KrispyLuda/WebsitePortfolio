@@ -31,7 +31,7 @@ export default function About() {
   </div>
 
   {/* Separator */}
-  <div className="min-w-full h-[120px] bg-black border-cyan-500 border-b-3 border-t-3 flex justify-center items-center" />
+  <div className="min-w-full h-[120px] bg-black border-cyan-500 border-b-4 border-t-4 flex justify-center items-center" />
 
   <div className="bg-white w-screen flex flex-col items-center gap-4 mb-10 justify-between min-h-screen">
     <div className="flex flex-col items-center gap-3 h-auto mb-10">
@@ -137,9 +137,9 @@ export default function About() {
     </div>
 
     {/* Socials */}
-    <div className="min-h-[200px] h-auto text-black w-full flex flex-col items-center gap-3 h-auto mb-10">
+    <div className="min-h-[200px] h-auto text-black w-full flex flex-col items-center gap-3 mb-10">
       <h2 className="text-lg text-cyan-500 font-bold">Socials</h2>
-      <footer className="w-[10.5rem] border-t-1 border-grey-500"></footer>
+      <footer className="w-[10.5rem] border-t-2 border-gray-500"></footer>
 
       {/* Links to Socials */}
       <a href="https://www.linkedin.com/in/chrisdoss-jr" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:underline">

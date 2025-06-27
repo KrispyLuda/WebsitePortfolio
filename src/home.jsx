@@ -40,7 +40,7 @@ export default function Body() {
     </div>
   </div>
 
-<section className="pt-20 w-full bg-darkblue-800 border-t-1 border-white px-4">
+<section className="pt-20 w-full bg-darkblue-800 border-t-2 border-white px-4">
   <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
     <section className=" p-5 text-center text-black shadow-md rounded-sm border-b-2 border-r-2 border-blue-500 hover:border-white hover:scale-105 transition-transform duration-300">
       <h2 className="font-bold text-white text-xl mb-2">Website Design & Development</h2>

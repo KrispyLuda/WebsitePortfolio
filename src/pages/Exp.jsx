@@ -70,7 +70,7 @@ export default function Exp() {
           />
         </a>
 
-        <footer className='mt-8 mb-10 w-[600px] border-t-1 border-grey-500 '> </footer>
+        <footer className='mt-8 mb-10 w-[600px] border-t border-grey-500 '> </footer>
 
 
 
@@ -93,12 +93,12 @@ export default function Exp() {
             <p className="text-m mt-10">
                <b>A</b>longside a team of 3 others, we created a website that uses AI to help students create a course plan for graduating with a Bachelor’s of Science in Computer Science at the University of Mississippi. I played a part in constructing the front end of the website, using React.js and its components to display an interactive and engaging experience for users. Our team, <b>Earth, Fire, Doss & Peter</b>, received 1st place in our project division.
             </p>
-            <footer className='mt-6 border-t-1 border-grey-500' ></footer>
+            <footer className='mt-6 border-t border-gray-500' ></footer>
             <p className='text-cyan-500 '>Github, React.js, HTML, CSS, Javascript, Figma, Adobe  Illustrator</p>
           </div>
           
         </div>
-        <footer className='mt-8 mb-30 w-[80.5rem] border-t-1 border-grey-500 '> </footer>
+        <footer className='mt-8 mb-30 w-[80.5rem] border-t border-gray-500 '> </footer>
 
         {/* ECAC MEDIA INTERN SECTION */}
         <div className="w-full mx-auto my-0 max-w-[80.5rem]  h-auto border-white rounded-sm flex ">
@@ -111,7 +111,7 @@ export default function Exp() {
             <p className="text-m mt-10">
               <b>A</b>s a member of the ECAC Media Team, I am responsible for creating and editing content for the ECAC Esports social media platforms. I work with a team of other media interns to create engaging content that promotes the ECAC Esports brand and its events. My role includes creating graphics and other media content that is shared on social media platforms such as their website, Twitter, and Instagram.
             </p>
-             <footer className='mt-6 border-t-1 border-grey-500' ></footer>
+             <footer className='mt-6 border-t border-grey-500' ></footer>
             <p className='text-cyan-500 '>Discord, Adobe PhotoShop, Adobe  Illustrator, Google Drive</p>
           </div>
         <div className="ml-auto w-[50%] h-full">
@@ -123,7 +123,7 @@ export default function Exp() {
           </div>
         </div>
        
-        <footer className='mt-8 mb-30 w-[80.5rem] border-t-1 border-grey-500 '> </footer>
+        <footer className='mt-8 mb-30 w-[80.5rem] border-t border-grey-500 '> </footer>
         <div className="w-full mx-auto my-0 max-w-[80.5rem]  h-auto border-white rounded-sm flex ">
           <div className="ml-auto w-[50%] h-full">
             <img
@@ -140,12 +140,12 @@ export default function Exp() {
             <p className="text-m mt-10">
                <b>A</b>s a Graduate Assistant, I am responsible for assisting the Graduate Community Coordinator with various tasks related to the management of student housing at the university. This includes helping with the planning and execution of events, managing student records, and providing support to students living in the residence halls. I work closely with the Graduate Coordinator and resident assistants to ensure that all aspects of student housing run smoothly and efficiently.
             </p>
-            <footer className='mt-6 border-t-1 border-grey-100' ></footer>
+            <footer className='mt-6 border-t border-grey-100' ></footer>
             <p className='text-cyan-500 '>Team Communication, Event Planning, Time Management, Customer Service, Google Excel, Adobe Illustrator, Microsoft Teams</p>
           </div>
           
         </div>
-        <footer className='mt-8 mb-30 w-[80.5rem] border-t-1 border-grey-500 '> </footer>
+        <footer className='mt-8 mb-30 w-[80.5rem] border-t border-grey-500 '> </footer>
 
 
 
@@ -160,7 +160,7 @@ export default function Exp() {
             <p className="text-m mt-10">
               <b>I</b>nstructed students on the basics of coding languages and game development. During the six-week internship, I worked with a group of other interns to create teaching strategies to promote basic Python, Java, and Karel to high school students (9th–12th grade) in the Mississippi Delta.
             </p>
-             <footer className='mt-6 border-t-1 border-grey-500' ></footer>
+             <footer className='mt-6 border-t border-grey-500' ></footer>
             <p className='text-cyan-500 '>Karel, Python, Java, Unity, Html/CSS</p>
           </div>
           <div className="ml-auto w-[40%] h-full">
@@ -171,7 +171,7 @@ export default function Exp() {
             />
           </div>
         </div>
-        <footer className='mt-8 mb-10 w-[80.5rem] border-t-1 border-grey-500 '> </footer>
+        <footer className='mt-8 mb-10 w-[80.5rem] border-t border-grey-500 '> </footer>
 
         <div className="h-[200px] w-full flex items-center justify-center m-2">
   {/* <button className="bg-cyan-500 text-white p-3 rounded-l hover:bg-black transition hover:text-black transition">
