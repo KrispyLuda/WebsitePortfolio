@@ -6,10 +6,7 @@ export default defineConfig({
   plugins: [react()],
   css: {
     postcss: {
-      plugins: [
-        require('autoprefixer'),
-        require('tailwindcss'),
-      ],
+    
       config: './postcss.config.js',
     },
   },
