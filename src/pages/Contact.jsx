@@ -24,6 +24,8 @@ export default function Contact() {
         <h2 className="text-2xl font-bold mb-6 text-center text-gray-800">Contact Me</h2>
         <p className="text-center text-gray-600">Currently open to new opportunities, collaborations, and commissions</p>
         <p className="text-center text-gray-600">Email Me Directly Here <a href="mailto:Christdoss2003@gmail.com" className="text-blue-500 hover:underline">Christdoss2003@gmail.com</a></p>
+        <p className="text-center text-gray-600">Professional Email Here <a href="mailto:Christdoss2003@gmail.com" className="text-blue-500 hover:underline">Chrdoss@olemiss.edu</a></p>
+
 
         <div className="mb-4">
           <label htmlFor="name" className="block text-sm font-medium text-gray-700">
